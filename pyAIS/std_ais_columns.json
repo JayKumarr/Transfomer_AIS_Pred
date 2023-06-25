@@ -1,0 +1,16 @@
+{
+ "Time":["Time","BaseDateTime", "dt_pos_utc", "DATE TIME (UTC)", "Date time stamp", "POSITION_UTC_DATE"],
+ "X":["X", "Longitude", "Lon", "Longitude (DDD.ddd)", "LONGITUDE"],
+ "Y":["Y", "Latitude", "Lat", "Latitude (DD.ddd)", "LATITUDE"],
+ "Draft":["Draught","Draft", "Max draught"],
+ "Name":["Name","VesselName","Vessel_Name"],
+ "MMSI":["MMSI", "VESSEL_ID"],
+ "IMO":["IMO", "IMO number"],
+ "AISCode":["AISCode","AISTYPE","VesselType","vessel_type_code", "Type of ship"],
+ "Coursing":["COG","Course","Coursing","COG (deg)"],
+ "Heading":["Heading","Hdng","True heading"],
+ "Speed":["Speed","SOG","SOG (knts)", "SPEED_KNOTS"],
+ "Length":["LOA","Length"],
+ "Width":["Beam","Width"],
+ "Status":["NavStat","Status","nav_status_code", "Navigational status"]
+}
